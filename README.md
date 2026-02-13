@@ -1,60 +1,81 @@
-# Hi, I'm Alexander 👋
+# Alexander Sivkov 👋
+### DevOps & Systems Developer | Linux | C/C++ | 42 (Codam)
 
-Software Developer focused on Linux systems, DevOps, and backend architecture.  
-42 (Codam) student with strong low-level C/C++ background.
+Passionate about Linux infrastructure, containerization, and backend systems.  
+Strong low-level background in C/C++ with hands-on experience in networking, processes, and HTTP architecture.
 
 ---
 
+## 🛠 Tech Stack
+
+### 🖥 Systems & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
+- Linux administration  
+- Docker & container networking  
+- NGINX configuration  
+- Networking fundamentals (IP, subnetting, routing)  
+- Process & memory management  
+- HTTP protocol  
 
-## 🔧 Core Skills
+### 💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Languages
-- C
-- C++
-- Bash
-- Python (basic)
-- JavaScript / TypeScript (basic)
-
-### Systems & DevOps
-- Linux administration
-- NGINX
-- Docker (learning & practicing)
-- Networking fundamentals
-- HTTP protocol
-- Process & memory management
-
----
-
-## 🚀 DevOps-Oriented Projects
-
-- **Inception** – multi-container Docker infrastructure (NGINX, WordPress, MariaDB, Redis)
-- **Born2beroot** – Linux server hardening, SSH, firewall, sudo configuration
-- **NetPractice** – networking fundamentals (IP, subnetting, routing)
+- C / C++ (system programming)
+- Bash scripting
+- Python (basic automation)
 
 ---
 
-## 💻 System Programming Projects
+## 🚀 Featured Projects
 
-- Webserv – HTTP/1.1 server in C++
-- Minishell – Unix shell with pipes and redirections
-- Philosophers – concurrency & threads
-- Cub3D – raycasting engine
-- Push_swap – algorithm optimization
-- Pipex – pipe & process handling
-- Libft / ft_printf / get_next_line – custom C standard library implementation
+### 🔹 Inception
+Multi-container Docker infrastructure:
+- NGINX (TLS)
+- WordPress
+- MariaDB
+- Redis
+- Volume management & networking
+
+### 🔹 Born2beroot
+Linux server hardening project:
+- SSH configuration
+- Firewall & UFW
+- Sudo policies
+- User & group management
+- System monitoring
+
+### 🔹 Webserv
+Custom HTTP/1.1 server in C++:
+- Request parsing
+- Routing
+- CGI execution
+- File uploads
+- Autoindex
 
 ---
 
-## 🎯 Currently
+## 🧠 Systems Programming Experience
 
-Moving toward a DevOps career path and deepening knowledge in:
-- Docker & containerization
-- Linux infrastructure
-- Networking
-- Automation basics
+- Minishell – custom Unix shell with pipes & redirections  
+- Philosophers – multithreading & synchronization  
+- Cub3D – raycasting engine  
+- Push_swap – algorithm optimization  
+- Pipex – process & pipe management  
+- Libft / ft_printf / get_next_line – custom C standard library  
+
+---
+
+## 🎯 Current Focus
+
+- Deepening Docker & container orchestration knowledge  
+- Linux automation & scripting  
+- Infrastructure design fundamentals  
 
 ---
 
