@@ -61,5 +61,8 @@ DevOps & Systems-oriented Software Developer
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/alexander-sivkov-osivkov
-- Email: sivkovfollow@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Sivkov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-sivkov-osivkov)
+
+[![Email](https://img.shields.io/badge/Email-sivkovfollow%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sivkovfollow@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-osivkov-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/osivkov)
+
