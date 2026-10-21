@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alexander Sivkov
+# Oleksander Sivkov
 
 ### Software Developer · DevOps & Systems Focus
 
